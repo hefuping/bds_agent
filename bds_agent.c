@@ -23,7 +23,6 @@ pthread_cond_t cond_Config;
 
 void main()
 {
-	printf("init success..\r\n");
 	printf("hello,bds_agent...\r\n");
 	return;
 }
